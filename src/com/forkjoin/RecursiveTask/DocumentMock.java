@@ -1,7 +1,5 @@
 package com.forkjoin.RecursiveTask;
-
 import java.util.Random;
-
 public class DocumentMock {
     private String words[] = {"peng","qiang","rose","jake","java","mother","father","happy"};
     public String[][] generteDocument(int numLines,int numWords,String word){
